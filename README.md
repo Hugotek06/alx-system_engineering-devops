@@ -1,1 +1,1 @@
-this repository containssolutions to shell tasks
+proj on process and signal

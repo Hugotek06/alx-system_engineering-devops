@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#This scrpt displays its own PID
+echo $$
